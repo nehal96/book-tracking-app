@@ -6,6 +6,16 @@ Listopia is a simple book-tracking application that allows you to add and move y
 
 [Click here to view the project](https://nehal96.github.io/book-tracking-app/)
 
+### How to Run
+
+1. Clone or download the project from the top-right dropdown menu. (To clone use `git clone https://github.com/nehal96/react-nd.git`)
+
+2. Enter the `p1-my-reads` directory.
+
+3. Run `npm install` to install all project dependencies
+
+4. Run `npm start` to start the dev server.
+
 ### Misc
 
 The search feature is limited to a particular set of search terms, which can be found in `SEARCH_TERMS.md`.
